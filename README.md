@@ -6,14 +6,14 @@
 
 **Proof of work**
 
-* New NFT class using the acala NFT Pallet
+1. **New NFT class using the acala NFT Pallet**
 
 ![](https://i.imgur.com/ahi0gje.png)
 
-* Minting token
+2. **Minting token**
 
 ![](https://i.imgur.com/cgOCCkt.png)
 
-* Query token
+3. **Query token**
 
 ![](https://i.imgur.com/HcWZwH0.png)
