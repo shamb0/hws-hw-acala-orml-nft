@@ -1,0 +1,15 @@
+{
+    "CurrencyId": {
+        "_enum": [
+            "Native",
+            "PRIDE"
+        ]
+    },
+    "CurrencyIdOf": "CurrencyId",
+    "Amount": "i128",
+    "AmountOf": "Amount",
+    "Address": "AccountId",
+    "LookupSource": "AccountId",
+    "TokenId": "u64",
+    "ClassId": "u64"
+}
